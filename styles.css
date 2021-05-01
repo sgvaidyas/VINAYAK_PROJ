@@ -1,0 +1,151 @@
+body, #title {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+}
+
+/* Title section */
+.block {
+  display: inline-block;
+  margin: 8px 14px;
+}
+
+.container-fluid {
+  overflow: hidden;
+  padding: 0;
+}
+
+#titleTop {
+  background-color: #000000c9;
+  width: auto;
+  height: 50px;
+  text-align: center;
+  color: white;
+}
+
+.navbar-brand {
+  color: #eeeeee;
+}
+
+#titleMid {
+  background-color: #ef8172;
+  width: auto;
+  height: 50px;
+}
+
+#titleTop .btn {
+  background-color: #ef8172;
+  border-radius: 20px;
+}
+
+.row {
+  padding: 0 10%;
+}
+
+.list p {
+  padding: 5px 0 9px 9px;
+  font-size: 110%;
+}
+
+i {
+  padding-top: 12px;
+}
+
+i, .brand a {
+  display: inline-block;
+  font-size: 170%;
+  padding-left: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #eeeeee;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.image {
+  background-image: url('image1.jpg');
+  background-color: #cccccc;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 338px;
+  background-size: cover;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-image: image("image.jpg");
+}
+
+h1 {
+  font-size: 500%;
+  color: white;
+}
+
+.btn-primary-outline {
+  overflow: hidden;
+  background-color: transparent;
+  border-color: #ccc;
+  color: white;
+}
+
+.btn-primary-outline:hover {
+  color: white;
+  background-color: black;
+}
+
+p {
+  color: white;
+}
+
+.text {
+  opacity: 100;
+}
+
+/* Features section */
+.features p {
+  color: black;
+}
+
+.features {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.three {
+  height: 250px;
+  background-color: black;
+  text-align: center;
+}
+
+.three h2 {
+  color: white;
+}
+
+.card-header {
+  text-align: left;
+}
+
+.card-body {
+  padding: 40px 30px;
+}
+
+.three {
+  display: inline-grid;
+  width: 25%;
+  font-size: 100%;
+}
+
+.b {
+  margin: 0 10%;
+}
+
+.a {
+  margin-left: 15px;
+}
+
+/* Covid section */
+/* Footer section */
